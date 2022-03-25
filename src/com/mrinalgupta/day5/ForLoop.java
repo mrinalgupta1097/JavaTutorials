@@ -9,7 +9,7 @@ public class ForLoop {
 
   public static void printTable(int number) {
     for (int i = 1; i <= 10; i++) {
-      int result = number * i;
+      int result = number * i;// 11*1,11*2,....11*10..11*11
       System.out.println(result);
     }
   }
