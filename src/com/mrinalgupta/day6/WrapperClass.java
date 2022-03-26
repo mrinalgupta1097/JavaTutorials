@@ -1,4 +1,4 @@
-package com.mrinalgupta.dayday6;
+package com.mrinalgupta.day6;
 
 public class WrapperClass {
     public static void main(String[] args) {

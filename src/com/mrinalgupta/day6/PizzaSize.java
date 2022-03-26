@@ -1,4 +1,4 @@
-package com.mrinalgupta.dayday6;
+package com.mrinalgupta.day6;
 
 public enum PizzaSize {
     Regular, Medium, Large

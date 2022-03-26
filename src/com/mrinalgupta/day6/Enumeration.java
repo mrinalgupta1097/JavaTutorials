@@ -1,4 +1,4 @@
-package com.mrinalgupta.dayday6;
+package com.mrinalgupta.day6;
 
 public class Enumeration {
     public static void main(String[] args) {

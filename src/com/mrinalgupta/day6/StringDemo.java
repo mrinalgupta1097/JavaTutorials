@@ -1,6 +1,4 @@
-package com.mrinalgupta.dayday6;
-
-import java.util.Locale;
+package com.mrinalgupta.day6;
 
 public class StringDemo {
      /*"12324", "@!#Java"
