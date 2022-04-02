@@ -17,7 +17,8 @@ public class Tata {
         ----------
         ----------
         }
-     4.
+     4. Pattern : <access modifier> <static> <final> <data type> <literal>
+     public static void main(String[] args){}
      */
 
     public Tata(String modelNumber, String color){
