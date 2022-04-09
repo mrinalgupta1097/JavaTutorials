@@ -1,0 +1,14 @@
+Interface : generic template that can be used by many classes at the same time.
+            contains method signatures and constant declarations.
+
+            public interface PublicTransport{
+                double price = 12.0; // rate per km
+                double MIN_AMOUNT = 30;
+
+                double calculateFare();
+
+            }
+
+ after java 9 :
+    1.private,default and static, methods in interfaces.
+    2. methods are public and abstracts by default and the fields are final, public and static.
