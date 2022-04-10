@@ -1,0 +1,11 @@
+Collections is a framework which contains Collection interface. Itb helps in storing, retrieving and manipulating data inside a data structure.
+
+Collections does not have a direct implementation.
+List, st and queue are the ones that get implemented.
+
+
+List : ordered & duplicate
+Set : ordered & unique
+Queue : FIFO
+Stack : LIFO
+Deque : it is same as queue and stack combined (both FIFO and LIFO) but we can remove elements from both ends.
