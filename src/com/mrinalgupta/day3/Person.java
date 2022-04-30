@@ -4,7 +4,7 @@ public class Person {
 //    data members, attributes, properties
     private String name;
     public String email;
-    public int age;
+    private int age;
 
 //    constructor
 
