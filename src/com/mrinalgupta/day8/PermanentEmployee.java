@@ -14,7 +14,16 @@ public class PermanentEmployee extends Employee {
   //    this.designation = designation;
   //    this.hikePercent = hikePercent;
   //  }
+  /*
+     how to generate constructor in child class when it is inheriting from parent
 
+     <access modifier> ChildClassName(<parentClassProperty1>, <parentClassProperty2>,
+      <parentClassProperty3>, <childClassProperties>){
+      super(<parentClassProperty1>, <parentClassProperty2>,
+      <parentClassProperty3>);
+      initiate child class properties;
+      }
+  */
   public PermanentEmployee(
       Integer employeeId, String employeeName, Double baseSalary, String designation) {
     super(employeeId, employeeName, baseSalary);
@@ -52,6 +61,6 @@ public class PermanentEmployee extends Employee {
   }
 
   /*
-  Annotations : they provide extra information to jvm.
+  Annotations : they provide extra information(metadata) to jvm.
    */
 }

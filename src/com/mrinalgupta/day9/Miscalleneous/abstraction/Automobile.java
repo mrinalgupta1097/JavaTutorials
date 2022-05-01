@@ -1,6 +1,7 @@
 package com.mrinalgupta.day9.Miscalleneous.abstraction;
 
 public abstract class Automobile {
+
   private String vehileNo;
 
   public String getVehileNo() {

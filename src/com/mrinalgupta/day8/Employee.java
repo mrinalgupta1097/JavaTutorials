@@ -14,6 +14,7 @@ public class Employee {
     this.baseSalary = baseSalary;
   }
 
+//  getter and setters
   public Integer getEmployeeId() {
     return employeeId;
   }

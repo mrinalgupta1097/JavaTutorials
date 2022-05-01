@@ -9,6 +9,6 @@ public class Bike extends Automobile {
 
   @Override
   public void stop() {
-    System.out.println("Bike : " + getVehileNo() + " has started.");
+    System.out.println("Bike : " + getVehileNo() + " has stopped.");
   }
 }

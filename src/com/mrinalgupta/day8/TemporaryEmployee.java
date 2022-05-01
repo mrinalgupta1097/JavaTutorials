@@ -1,7 +1,7 @@
 package com.mrinalgupta.day8;
 
 public class TemporaryEmployee extends Employee {
-  private Float servicePeriod;
+  private  Float servicePeriod;
 
   public TemporaryEmployee(
       int employeeId, String employeeName, double baseSalary, float servicePeriod) {
